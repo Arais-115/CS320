@@ -1,2 +1,7 @@
-# CS320 - Software Test Automation
+# CS320 - Software Testing, Automation, and Quality Assurance 
+
+Applied software engineering testing strategies and practices as part of the software development lifecycle, including requirements analysis, verification and validation, and quality management.
+
+Below is a questionnaire required for coursework:
+
 To ensure that my code, and software is functional and secure I must both design the software to the requirements that were laid out before hand, whilst also checking to ensure that the software both adheres to those requirements as well as does not perform actions that are not within the scope of the software. Testing against bugs, errors, and security breaches depending on the scope of the software must be taken into account. To interpret user needs and incorporate them into a program, it must be based on the type of software that is to be developed. Such as, is it a banking application, a mobile app for food delivery services, a simple text editor, and so on. Looking at what the end user needs out of each application will help determine the scope and requirements for the software. To approach designing software for me, it is best to start with the end goal, or the requirements first. What does the software need to do? What does the end user need out of the software to make it work? Then move backwards and add more to the list based on the generalized questions. Such as, does this software need encryption because of sensitive data being moved through the internet? Does the UI make sense to the end user?
